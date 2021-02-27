@@ -7,7 +7,7 @@ You can use it like below..
 `/upload-file.php`
 
 `Method : POST
-Params : Formdata
-name : file 
+Params : Formdata`
+`name : file 
 value : File Object | Blob | Array Buffer`
 
